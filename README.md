@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonas aka @KloetzchenTV
+- 👋 Hi, I’m Jonas aka @jonasxwebdev
 - 👀 I’m interested in Building Front-End Interfaces
 - 🌱 I’m currently learning React
 - 📫 Contact me: info@jonasreidel.de
