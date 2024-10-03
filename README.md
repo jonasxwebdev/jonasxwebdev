@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonas aka @jonasxwebdev
 - 👀 I’m interested in Building Front-End Interfaces
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NextJs and Vue
 - 📫 Contact me: info@jonasreidel.de
 
 <!--
